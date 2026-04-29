@@ -69,6 +69,13 @@ python Library.py
 4. Exit
 ```
 
+
+## Screenshots
+
+<img width="805" height="325" alt="1" src="https://github.com/user-attachments/assets/237a5fae-a443-41f0-97b9-2b86ec2b7699" />
+
+
+
 ## Roles & Permissions
 
 Admin
